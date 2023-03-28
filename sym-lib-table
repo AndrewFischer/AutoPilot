@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AutoPilot-eagle-import")(type "Legacy")(uri "${KIPRJMOD}/AutoPilot-eagle-import.lib")(options "")(descr ""))
+  (lib (name "AutoPilot-rescue")(type "KiCad")(uri "${KIPRJMOD}/AutoPilot-rescue.kicad_sym")(options "")(descr ""))
+)

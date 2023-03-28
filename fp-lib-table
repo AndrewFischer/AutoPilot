@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name AutoPilot)(type KiCad)(uri "$(KIPRJMOD)/AutoPilot.pretty")(options "")(descr ""))
+  (lib (name keebio)(type KiCad)(uri D:/Keyboards/keebio/Keebio-Parts.pretty)(options "")(descr ""))
+)
